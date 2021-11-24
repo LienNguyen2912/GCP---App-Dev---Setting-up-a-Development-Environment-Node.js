@@ -278,6 +278,6 @@ Your instance name shows in the SSH terminal window.
 ## Congratulations!
 You learned how to provision a Google Compute Engine virtual machine and install software libraries for Node.js, Java, Python software development on Google Cloud Platform.
 
-## Referenence
+## Reference
 **Google Cloud Fundamentals: Getting Started With Application Development** course
 https://www.coursera.org/learn/getting-started-app-development/home/welcome
